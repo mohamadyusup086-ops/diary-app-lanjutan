@@ -1,3 +1,4 @@
+// src/styles/tokens.js
 export const COLORS = {
   surface: '#FFFFFF',
   border: '#E5E7EB',
